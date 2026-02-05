@@ -1,7 +1,7 @@
 <p align="center"><strong>Salary Calculator README File</strong></p>
 
 ## Description
-The salary calculator is a program to help determine weekly, biweekly, and annually pay for a job. With this caluclator, you will no longer need to calculate the salary using your phone calulcator when job descriptions only list the hourly pay. Just input the necessary information and let the program run its course.
+The salary calculator is a **python** program to help determine weekly, biweekly, and annually pay for a job. With this caluclator, you will no longer need to calculate the salary using your phone calulcator when job descriptions only list the hourly pay. Just input the necessary information and let the program run its course.
 
 ## Features
 - User input
