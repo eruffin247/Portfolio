@@ -28,6 +28,11 @@ state_code = input("What state do you reside in? ")
 print("""
 """)
 
+#calculate weekly, bi-weekly, and annual pay
+weekly_pay = hrly_pay * 40
+biweekly_pay = weekly_pay * 2
+annual_pay = weekly_pay * 52
+
 federal_table = tax_df[
     (tax_df["tax_type"] == "federal") &
     (tax_df["filing_status"] == filing_status)
@@ -44,10 +49,6 @@ print("""
 
 print("BAM! In 3, 2, 1...")
 
-# Calculate weekly, bi-weekly, and annual pay
-weekly_pay = hrly_pay * 40
-biweekly_pay = weekly_pay * 2
-annual_pay = weekly_pay * 52
 print("""
 """)
 
