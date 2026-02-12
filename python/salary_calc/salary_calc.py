@@ -1,34 +1,32 @@
 import pandas as pd
 
-#where to load data
+# Where to load data
 tax_df = pd.read_csv("tax_data.csv")
 
-#this is a program to calculate job salaries
-print("Welcome to the Salary Calculator!")
+# This is a program to calculate job salaries
+print("Welcome to the Salary Calculator! What is your name?")
 print("""
 """)
 
-#get user input for job title and hourly pay
-job_title = input("Hey there! What is the job title you're pursuing? ")
+first_name = input("What is your first name? ")
+last_name = input("What is your last name? ")
 print("""
 """)
 
-#get hourly pay from user
+
+# Get user input for job title and hourly pay
+job_title = input(f"Hey there {first_name}! What is the job title you're pursuing? ")
 hrly_pay = float(input("What is the hourly pay? $"))
 print("""
 """)
 
-#get filing status
+# Get filing status and state of residency
 filing_status = input("What is your filing status? ")
-print("""
-""")
-
-#get state of residency
 state_code = input("What state do you reside in? ")
 print("""
 """)
 
-#calculate weekly, bi-weekly, and annual pay
+# Calculate weekly, bi-weekly, and annual pay
 weekly_pay = hrly_pay * 40
 biweekly_pay = weekly_pay * 2
 annual_pay = weekly_pay * 52
@@ -48,7 +46,6 @@ print("""
 """)
 
 print("BAM! In 3, 2, 1...")
-
 print("""
 """)
 
