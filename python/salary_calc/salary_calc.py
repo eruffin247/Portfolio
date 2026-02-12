@@ -1,22 +1,42 @@
+import pandas as pd
+
+#where to load data
+tax_df = pd.read_csv("tax_data.csv")
+
 #this is a program to calculate job salaries
 print("Welcome to the Salary Calculator!")
 print("""
 """)
 
-# Get user input for job title and hourly pay
+#get user input for job title and hourly pay
 job_title = input("Hey there! What is the job title you're pursuing? ")
 print("""
 """)
 
-# Get hourly pay from user
+#get hourly pay from user
 hrly_pay = float(input("What is the hourly pay? $"))
 print("""
 """)
 
-#import pandas as pd
-#federal_df = pd.read_csv("Tax_Data.csv")
-#state_df = pd.read_csv("Tax_Data.csv")
+#get filing status
+filing_status = input("What is your filing status? ")
+print("""
+""")
 
+#get state of residency
+state_code = input("What state do you reside in? ")
+print("""
+""")
+
+federal_table = tax_df[
+    (tax_df["tax_type"] == "federal") &
+    (tax_df["filing_status"] == filing_status)
+]
+
+state_table = tax_df[
+    (tax_df["tax_type"] == "state") &
+    (tax_df["state"] == state_code)
+]
 
 print("Calculating salary information...")
 print("""
