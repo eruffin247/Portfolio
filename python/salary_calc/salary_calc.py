@@ -56,8 +56,8 @@ state_table = tax_df[
     (tax_df["state"] == state_code)
 ]
 
-federal_tax = calculate_progressive_tax
-state_tax= 
+#federal_tax = calculate_progressive_tax
+#state_tax= 
 
 print("Calculating salary information...")
 print("""
