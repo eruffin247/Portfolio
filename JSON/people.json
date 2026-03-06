@@ -1,15 +1,45 @@
 [
     {
-    "name" : "Emmanuel",
+    "name" : "John Doe",
     "age" : 23,
     "employed" : true,
-    "skills" : ["Python", "Networking", "Windows 11", "macOS", "Linux"]
+    "skills" : ["Python", "Networking", "Windows 11", "macOS", "Linux", "Virtualization", "Ticket Management", "Escalation", "Troubleshooting"],
+    "Certifications" : ["CompTIA Network+", "AWS Solutions Architect Associate"],
+    "location" : {
+        "city" : "Raleigh",
+        "state" : "North Carolina",
+        "state_code" : "NC",
+        "zip_code" : 27606,
+        "country" : "US"
+    }
     },
     {
-    "name" : "Logan",
+    "name" : "Jane Doe",
     "age" : 21,
     "employed" : true,
-    "skills" : ["Virtualization", "Python", "Windows 11", "macOS", "Linux", "Networking"]
+    "skills" : ["Virtualization", "Python", "Windows 11", "macOS", "Linux", "Networking"],
+    "Certifications" : false,
+    "location" : {
+        "city" : "Greenville",
+        "state" : "North Carolina",
+        "state_code" : "NC",
+        "zip_code" : 27858,
+        "country" : "US"
+    }
+    },
+    {
+    "name" : "Joseph Doe",
+    "age" : 19,
+    "employed" : false,
+    "skills" : ["Java", "Python", "C++"],
+    "Certifications" : false,
+    "location" : {
+        "city" : "Rocky Mount",
+        "state" : "North Carolina",
+        "state_code" : "NC",
+        "zip_code" : 27804,
+        "country" : "US"
+    }
     }
 
 ]
