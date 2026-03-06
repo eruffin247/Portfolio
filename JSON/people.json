@@ -1,0 +1,15 @@
+[
+    {
+    "name" : "Emmanuel",
+    "age" : 23,
+    "employed" : true,
+    "skills" : ["Python", "Networking", "Windows 11", "macOS", "Linux"]
+    },
+    {
+    "name" : "Logan",
+    "age" : 21,
+    "employed" : true,
+    "skills" : ["Virtualization", "Python", "Windows 11", "macOS", "Linux", "Networking"]
+    }
+
+]

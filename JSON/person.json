@@ -1,0 +1,6 @@
+{
+    "name" : "Emmanuel",
+    "age" : 23,
+    "employed" : "Yes",
+    "skills" : ["Python", "Networking", "Windows 11", "macOS", "Linux"]
+}
