@@ -44,7 +44,7 @@ In addition to learning ETL and analytics workflows, this project helped me bett
 
 ## Extract
 
-The dataset was imported from a CSV file using Pandas.
+The dataset was imported from a CSV file using Pandas. I retrieved the CSV file from Kaggle. Here is the link: https://www.kaggle.com/datasets/amaymishra11/tech-layoffs-and-hiring-trends-2026
 
 Example:
 
