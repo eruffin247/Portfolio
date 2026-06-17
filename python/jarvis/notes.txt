@@ -1,0 +1,8 @@
+I'm looking to create a Jarvis AI through Python, and maybe expanding it to use a pre-trained llm. Creating a llm from scratch would require too much building at the moment.
+
+Features I want Jarvis to include are:
+1. Speech Recognition
+2. Fast but Accurate Responses
+3. Accessable on Multiple Devices
+
+With that being said, not sure how feasable some of these features are since I'm only using Python.
