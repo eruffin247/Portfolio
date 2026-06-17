@@ -1,0 +1,433 @@
+Date,Workout Name,Duration,Exercise Name,Set Order,Weight,Reps,Notes,RPE
+2026-03-16,Chest & Biceps🃏,1h 24m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-03-16,Chest & Biceps🃏,1h 24m,Single Arm Preacher Curl (Machine),F,70.0,9.0,,10.0
+2026-03-16,Chest & Biceps🃏,1h 24m,Single Arm Preacher Curl (Machine),F,72.5,4.0,,10.0
+2026-03-16,Chest & Biceps🃏,1h 24m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-03-16,Chest & Biceps🃏,1h 24m,Incline Bench Press (Smith Machine),W,70.0,8.0,,
+2026-03-16,Chest & Biceps🃏,1h 24m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-03-16,Chest & Biceps🃏,1h 24m,Incline Bench Press (Smith Machine),F,160.0,6.0,,10.0
+2026-03-16,Chest & Biceps🃏,1h 24m,Incline Bench Press (Smith Machine),F,150.0,5.0,,10.0
+2026-03-16,Chest & Biceps🃏,1h 24m,Arsenal Strength Chest Fly (Machine),F,250.0,8.0,"2x8-10(F), 3 mins",10.0
+2026-03-16,Chest & Biceps🃏,1h 24m,Arsenal Strength Chest Fly (Machine),F,200.0,8.0,,10.0
+2026-03-17,Back & Triceps✝️,1h 6m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-03-17,Back & Triceps✝️,1h 6m,Lat Pulldown - Wide Grip (Cable),F,160.0,8.0,,10.0
+2026-03-17,Back & Triceps✝️,1h 6m,Lat Pulldown - Wide Grip (Cable),F,165.0,3.0,,10.0
+2026-03-17,Back & Triceps✝️,1h 6m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-03-17,Back & Triceps✝️,1h 6m,Single Arm Tricep Extension (Cable),F,35.0,4.0,,10.0
+2026-03-17,Back & Triceps✝️,1h 6m,Single Arm Tricep Extension (Cable),F,30.0,7.0,,10.0
+2026-03-17,Back & Triceps✝️,1h 6m,Arsenal Strength Reload T Row,W,50.0,8.0,"2x6-8(F), 4 mins",
+2026-03-17,Back & Triceps✝️,1h 6m,Arsenal Strength Reload T Row,F,110.0,7.0,,10.0
+2026-03-17,Back & Triceps✝️,1h 6m,Arsenal Strength Reload T Row,F,100.0,6.0,,10.0
+2026-03-17,Back & Triceps✝️,1h 6m,Tricep Press (Machine),F,205.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-03-17,Back & Triceps✝️,1h 6m,Tricep Press (Machine),F,220.0,4.0,,10.0
+2026-03-17,Back & Triceps✝️,1h 6m,Arsenal Strength Reloaded Iso Multi Row,F,155.0,8.0,1x6-8(F),10.0
+2026-03-18,Legs 🐓 ,1h 18m,Romanian Deadlift (Barbell),W,95.0,10.0,1x6-8(F),
+2026-03-18,Legs 🐓 ,1h 18m,Romanian Deadlift (Barbell),W,135.0,8.0,,
+2026-03-18,Legs 🐓 ,1h 18m,Romanian Deadlift (Barbell),F,225.0,9.0,,10.0
+2026-03-18,Legs 🐓 ,1h 18m,Pendulum Squat (Machine),W,110.0,10.0,"1x6-8(F), 4 mins",
+2026-03-18,Legs 🐓 ,1h 18m,Pendulum Squat (Machine),W,160.0,6.0,,
+2026-03-18,Legs 🐓 ,1h 18m,Pendulum Squat (Machine),F,210.0,7.0,,10.0
+2026-03-18,Legs 🐓 ,1h 18m,Hip Adductor (Machine),F,95.0,7.0,1x8-10(F),10.0
+2026-03-18,Legs 🐓 ,1h 18m,Standing Calf Raise (Machine),F,280.0,9.0,"2x8-10(F), 3 mins",10.0
+2026-03-18,Legs 🐓 ,1h 18m,Standing Calf Raise (Machine),F,270.0,6.0,,10.0
+2026-03-18,Legs 🐓 ,1h 18m,Single-Leg Leg Extension (Machine),F,105.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-03-18,Legs 🐓 ,1h 18m,Single-Leg Leg Extension (Machine),F,110.0,4.0,,10.0
+2026-03-19,Shoulders🪨,40m,Cable Crunch,F,65.0,10.0,"3x8-10, 3 mins",10.0
+2026-03-19,Shoulders🪨,40m,Cable Crunch,F,70.0,6.0,,10.0
+2026-03-19,Shoulders🪨,40m,Cable Crunch,F,70.0,5.0,,10.0
+2026-03-19,Shoulders🪨,40m,Arsenal Strength Shoulder Press (Machine),W,18.0,10.0,"2x6-8(F), 3 mins",
+2026-03-19,Shoulders🪨,40m,Arsenal Strength Shoulder Press (Machine),W,43.0,8.0,,
+2026-03-19,Shoulders🪨,40m,Arsenal Strength Shoulder Press (Machine),F,108.0,5.0,,10.0
+2026-03-19,Shoulders🪨,40m,Arsenal Strength Shoulder Press (Machine),F,88.0,9.0,,10.0
+2026-03-19,Shoulders🪨,40m,Arsenal Strength Lateral Raise (Machine),F,60.0,11.0,"2x8-10(F), 3 mins",10.0
+2026-03-19,Shoulders🪨,40m,Arsenal Strength Lateral Raise (Machine),F,70.0,8.0,,10.0
+2026-03-19,Shoulders🪨,40m,Rear Delt Fly (Cable),F,20.0,9.0,"2x8-10(F), 3 mins",10.0
+2026-03-21,Chest & Biceps🃏,51m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-03-21,Chest & Biceps🃏,51m,Single Arm Preacher Curl (Machine),F,72.5,7.0,,10.0
+2026-03-21,Chest & Biceps🃏,51m,Single Arm Preacher Curl (Machine),F,65.0,7.0,,10.0
+2026-03-21,Chest & Biceps🃏,51m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-03-21,Chest & Biceps🃏,51m,Incline Bench Press (Smith Machine),W,70.0,8.0,,
+2026-03-21,Chest & Biceps🃏,51m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-03-21,Chest & Biceps🃏,51m,Incline Bench Press (Smith Machine),F,160.0,7.0,,10.0
+2026-03-21,Chest & Biceps🃏,51m,Incline Bench Press (Smith Machine),F,150.0,6.0,,10.0
+2026-03-21,Chest & Biceps🃏,51m,Forearm Curl (Cable),F,30.0,9.0,"2x6-8(F), 3 mins",10.0
+2026-03-21,Chest & Biceps🃏,51m,Forearm Curl (Cable),F,32.5,9.0,,10.0
+2026-03-21,Chest & Biceps🃏,51m,Arsenal Strength Chest Fly (Machine),F,250.0,8.0,"2x8-10(F), 3 mins",10.0
+2026-03-21,Chest & Biceps🃏,51m,Arsenal Strength Chest Fly (Machine),F,200.0,8.0,,10.0
+2026-03-22,Back & Triceps✝️,1h 2m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-03-22,Back & Triceps✝️,1h 2m,Lat Pulldown - Wide Grip (Cable),F,165.0,5.0,,10.0
+2026-03-22,Back & Triceps✝️,1h 2m,Lat Pulldown - Wide Grip (Cable),F,150.0,6.0,,10.0
+2026-03-22,Back & Triceps✝️,1h 2m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-03-22,Back & Triceps✝️,1h 2m,Single Arm Tricep Extension (Cable),F,35.0,6.0,,10.0
+2026-03-22,Back & Triceps✝️,1h 2m,Single Arm Tricep Extension (Cable),F,30.0,7.0,,10.0
+2026-03-22,Back & Triceps✝️,1h 2m,Arsenal Strength Reload T Row,W,50.0,8.0,"2x6-8(F), 4 mins",
+2026-03-22,Back & Triceps✝️,1h 2m,Arsenal Strength Reload T Row,F,110.0,7.0,,10.0
+2026-03-22,Back & Triceps✝️,1h 2m,Arsenal Strength Reload T Row,F,100.0,6.0,,10.0
+2026-03-22,Back & Triceps✝️,1h 2m,Tricep Press (Machine),F,220.0,6.0,"2x6-8(F), 3 mins",10.0
+2026-03-22,Back & Triceps✝️,1h 2m,Tricep Press (Machine),F,205.0,6.0,,10.0
+2026-03-22,Back & Triceps✝️,1h 2m,Arsenal Strength Reloaded Iso Multi Row,F,160.0,7.0,1x6-8(F),10.0
+2026-03-24,Shoulders🪨,41m,Cable Crunch,F,65.0,11.0,"3x8-10, 3 mins",10.0
+2026-03-24,Shoulders🪨,41m,Cable Crunch,F,70.0,8.0,,10.0
+2026-03-24,Shoulders🪨,41m,Cable Crunch,F,70.0,7.0,,10.0
+2026-03-24,Shoulders🪨,41m,Arsenal Strength Shoulder Press (Machine),W,18.0,10.0,"2x6-8(F), 3 mins",
+2026-03-24,Shoulders🪨,41m,Arsenal Strength Shoulder Press (Machine),W,43.0,8.0,,
+2026-03-24,Shoulders🪨,41m,Arsenal Strength Shoulder Press (Machine),F,108.0,6.0,,10.0
+2026-03-24,Shoulders🪨,41m,Arsenal Strength Shoulder Press (Machine),F,98.0,6.0,,10.0
+2026-03-24,Shoulders🪨,41m,Arsenal Strength Lateral Raise (Machine),F,70.0,11.0,"2x8-10(F), 3 mins",10.0
+2026-03-24,Shoulders🪨,41m,Arsenal Strength Lateral Raise (Machine),F,80.0,8.0,,10.0
+2026-03-24,Shoulders🪨,41m,Rear Delt Fly (Cable),F,20.0,6.0,"2x8-10(F), 3 mins",10.0
+2026-03-26,Chest & Biceps🃏,42m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-03-26,Chest & Biceps🃏,42m,Single Arm Preacher Curl (Machine),F,72.5,7.0,,10.0
+2026-03-26,Chest & Biceps🃏,42m,Single Arm Preacher Curl (Machine),F,65.0,8.0,,10.0
+2026-03-26,Chest & Biceps🃏,42m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-03-26,Chest & Biceps🃏,42m,Incline Bench Press (Smith Machine),W,70.0,8.0,,
+2026-03-26,Chest & Biceps🃏,42m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-03-26,Chest & Biceps🃏,42m,Incline Bench Press (Smith Machine),F,160.0,8.0,,10.0
+2026-03-26,Chest & Biceps🃏,42m,Incline Bench Press (Smith Machine),F,165.0,4.0,,10.0
+2026-03-27,Back & Triceps✝️,53m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-03-27,Back & Triceps✝️,53m,Lat Pulldown - Wide Grip (Cable),F,165.0,6.0,,10.0
+2026-03-27,Back & Triceps✝️,53m,Lat Pulldown - Wide Grip (Cable),F,150.0,7.0,,10.0
+2026-03-27,Back & Triceps✝️,53m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-03-27,Back & Triceps✝️,53m,Single Arm Tricep Extension (Cable),F,35.0,7.0,,10.0
+2026-03-27,Back & Triceps✝️,53m,Single Arm Tricep Extension (Cable),F,30.0,7.0,,10.0
+2026-03-27,Back & Triceps✝️,53m,Arsenal Strength Reload T Row,W,50.0,8.0,"2x6-8(F), 4 mins",
+2026-03-27,Back & Triceps✝️,53m,Arsenal Strength Reload T Row,F,110.0,7.0,,10.0
+2026-03-27,Back & Triceps✝️,53m,Arsenal Strength Reload T Row,F,110.0,3.0,,10.0
+2026-03-27,Back & Triceps✝️,53m,Tricep Press (Machine),F,220.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-03-27,Back & Triceps✝️,53m,Tricep Press (Machine),F,225.0,3.0,,10.0
+2026-03-27,Back & Triceps✝️,53m,Arsenal Strength Reloaded Iso Multi Row,F,160.0,8.0,1x6-8(F),10.0
+2026-03-28,Legs 🐓 ,52m,Romanian Deadlift (Barbell),W,95.0,10.0,1x6-8(F),
+2026-03-28,Legs 🐓 ,52m,Romanian Deadlift (Barbell),W,135.0,8.0,,
+2026-03-28,Legs 🐓 ,52m,Romanian Deadlift (Barbell),F,235.0,4.0,,10.0
+2026-03-28,Legs 🐓 ,52m,Pendulum Squat (Machine),W,110.0,10.0,"1x6-8(F), 4 mins",
+2026-03-28,Legs 🐓 ,52m,Pendulum Squat (Machine),W,160.0,6.0,,
+2026-03-28,Legs 🐓 ,52m,Pendulum Squat (Machine),F,210.0,8.0,,10.0
+2026-03-28,Legs 🐓 ,52m,Hip Adductor (Machine),F,95.0,10.0,1x8-10(F),10.0
+2026-03-28,Legs 🐓 ,52m,Standing Calf Raise (Machine),F,280.0,7.0,"2x8-10(F), 3 mins",10.0
+2026-03-28,Legs 🐓 ,52m,Single-Leg Leg Extension (Machine),F,110.0,6.0,"2x6-8(F), 3 mins",10.0
+2026-03-29,Shoulders🪨,1h 15m,Cable Crunch,F,70.0,10.0,"3x8-10, 3 mins",10.0
+2026-03-29,Shoulders🪨,1h 15m,Cable Crunch,F,75.0,7.0,,10.0
+2026-03-29,Shoulders🪨,1h 15m,Cable Crunch,F,75.0,6.0,,10.0
+2026-03-29,Shoulders🪨,1h 15m,Arsenal Strength Shoulder Press (Machine),W,18.0,10.0,"2x6-8(F), 3 mins",
+2026-03-29,Shoulders🪨,1h 15m,Arsenal Strength Shoulder Press (Machine),W,43.0,8.0,,
+2026-03-29,Shoulders🪨,1h 15m,Arsenal Strength Shoulder Press (Machine),F,108.0,7.0,,10.0
+2026-03-29,Shoulders🪨,1h 15m,Arsenal Strength Shoulder Press (Machine),F,108.0,6.0,,10.0
+2026-03-29,Shoulders🪨,1h 15m,Arsenal Strength Lateral Raise (Machine),F,80.0,10.0,"2x8-10(F), 3 mins",10.0
+2026-03-29,Shoulders🪨,1h 15m,Arsenal Strength Lateral Raise (Machine),F,85.0,7.0,,10.0
+2026-03-29,Shoulders🪨,1h 15m,Rear Delt Fly (Cable),F,20.0,11.0,"2x8-10(F), 3 mins",10.0
+2026-03-31,Chest & Biceps🃏,58m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-03-31,Chest & Biceps🃏,58m,Single Arm Preacher Curl (Machine),F,72.5,7.0,,10.0
+2026-03-31,Chest & Biceps🃏,58m,Single Arm Preacher Curl (Machine),F,70.0,6.0,,10.0
+2026-03-31,Chest & Biceps🃏,58m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-03-31,Chest & Biceps🃏,58m,Incline Bench Press (Smith Machine),W,70.0,8.0,,
+2026-03-31,Chest & Biceps🃏,58m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-03-31,Chest & Biceps🃏,58m,Incline Bench Press (Smith Machine),F,165.0,6.0,,10.0
+2026-03-31,Chest & Biceps🃏,58m,Incline Bench Press (Smith Machine),F,160.0,5.0,,10.0
+2026-03-31,Chest & Biceps🃏,58m,Forearm Curl (Cable),F,40.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-03-31,Chest & Biceps🃏,58m,Forearm Curl (Cable),F,42.5,6.0,,10.0
+2026-03-31,Chest & Biceps🃏,58m,Arsenal Strength Chest Fly (Machine),F,250.0,9.0,"2x8-10(F), 3 mins",10.0
+2026-03-31,Chest & Biceps🃏,58m,Arsenal Strength Chest Fly (Machine),F,220.0,9.0,,10.0
+2026-04-01,Back & Triceps✝️,1h 22m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-04-01,Back & Triceps✝️,1h 22m,Lat Pulldown - Wide Grip (Cable),F,165.0,6.0,,10.0
+2026-04-01,Back & Triceps✝️,1h 22m,Lat Pulldown - Wide Grip (Cable),F,150.0,6.0,,10.0
+2026-04-01,Back & Triceps✝️,1h 22m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-04-01,Back & Triceps✝️,1h 22m,Single Arm Tricep Extension (Cable),F,35.0,6.0,,10.0
+2026-04-01,Back & Triceps✝️,1h 22m,Single Arm Tricep Extension (Cable),F,30.0,8.0,,10.0
+2026-04-01,Back & Triceps✝️,1h 22m,Kelso Shrug (Machine),F,130.0,7.0,"2x6-8(F), 3 mins",10.0
+2026-04-01,Back & Triceps✝️,1h 22m,Kelso Shrug (Machine),F,130.0,6.0,,10.0
+2026-04-01,Back & Triceps✝️,1h 22m,Tricep Press (Machine),F,225.0,6.0,"2x6-8(F), 3 mins",10.0
+2026-04-01,Back & Triceps✝️,1h 22m,Tricep Press (Machine),F,225.0,7.0,,10.0
+2026-04-01,Back & Triceps✝️,1h 22m,Arsenal Strength Reloaded Iso Multi Row,F,165.0,6.0,1x6-8(F),10.0
+2026-04-06,Chest & Biceps🃏,39m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-04-06,Chest & Biceps🃏,39m,Single Arm Preacher Curl (Machine),F,72.5,8.0,,10.0
+2026-04-06,Chest & Biceps🃏,39m,Single Arm Preacher Curl (Machine),F,75.0,5.0,,10.0
+2026-04-06,Chest & Biceps🃏,39m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-04-06,Chest & Biceps🃏,39m,Incline Bench Press (Smith Machine),W,70.0,8.0,,
+2026-04-06,Chest & Biceps🃏,39m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-04-06,Chest & Biceps🃏,39m,Incline Bench Press (Smith Machine),F,165.0,6.0,,10.0
+2026-04-06,Chest & Biceps🃏,39m,Incline Bench Press (Smith Machine),F,160.0,5.0,,10.0
+2026-04-06,Chest & Biceps🃏,39m,Forearm Curl (Cable),F,65.0,6.0,"2x6-8(F), 3 mins",10.0
+2026-04-06,Chest & Biceps🃏,39m,Arsenal Strength Chest Fly (Machine),F,250.0,8.0,"2x8-10(F), 3 mins",10.0
+2026-04-07,Back & Triceps✝️,59m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-04-07,Back & Triceps✝️,59m,Lat Pulldown - Wide Grip (Cable),F,165.0,8.0,,10.0
+2026-04-07,Back & Triceps✝️,59m,Lat Pulldown - Wide Grip (Cable),F,170.0,6.0,,10.0
+2026-04-07,Back & Triceps✝️,59m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-04-07,Back & Triceps✝️,59m,Single Arm Tricep Extension (Cable),F,35.0,6.0,,10.0
+2026-04-07,Back & Triceps✝️,59m,Single Arm Tricep Extension (Cable),F,32.5,7.0,,10.0
+2026-04-07,Back & Triceps✝️,59m,Kelso Shrug (Machine),F,130.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-04-07,Back & Triceps✝️,59m,Kelso Shrug (Machine),F,145.0,6.0,,10.0
+2026-04-07,Back & Triceps✝️,59m,Tricep Press (Machine),F,225.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-04-07,Back & Triceps✝️,59m,Tricep Press (Machine),F,230.0,5.0,,10.0
+2026-04-07,Back & Triceps✝️,59m,Arsenal Strength Reloaded Iso Multi Row,F,165.0,8.0,1x6-8(F),10.0
+2026-04-08,Legs 🐓 ,28m,Romanian Deadlift (Barbell),W,95.0,10.0,1x6-8(F),
+2026-04-08,Legs 🐓 ,28m,Romanian Deadlift (Barbell),W,135.0,6.0,,
+2026-04-08,Legs 🐓 ,28m,Romanian Deadlift (Barbell),F,235.0,6.0,,10.0
+2026-04-08,Legs 🐓 ,28m,Pendulum Squat (Machine),W,160.0,6.0,"1x6-8(F), 4 mins",
+2026-04-08,Legs 🐓 ,28m,Pendulum Squat (Machine),F,220.0,7.0,,10.0
+2026-04-08,Legs 🐓 ,28m,Hip Adductor (Machine),F,105.0,6.0,1x8-10(F),10.0
+2026-04-09,Shoulders🪨,39m,Cable Crunch,F,75.0,8.0,"3x8-10, 3 mins",10.0
+2026-04-09,Shoulders🪨,39m,Cable Crunch,F,75.0,8.0,,10.0
+2026-04-09,Shoulders🪨,39m,Cable Crunch,F,65.0,10.0,,10.0
+2026-04-09,Shoulders🪨,39m,Arsenal Strength Shoulder Press (Machine),W,18.0,10.0,"2x6-8(F), 3 mins",
+2026-04-09,Shoulders🪨,39m,Arsenal Strength Shoulder Press (Machine),W,43.0,8.0,,
+2026-04-09,Shoulders🪨,39m,Arsenal Strength Shoulder Press (Machine),F,108.0,8.0,,10.0
+2026-04-09,Shoulders🪨,39m,Arsenal Strength Shoulder Press (Machine),F,113.0,5.0,,10.0
+2026-04-09,Shoulders🪨,39m,Arsenal Strength Lateral Raise (Machine),F,85.0,8.0,"2x8-10(F), 3 mins",10.0
+2026-04-09,Shoulders🪨,39m,Arsenal Strength Lateral Raise (Machine),F,80.0,8.0,,10.0
+2026-04-09,Shoulders🪨,39m,Rear Delt Fly (Cable),F,22.5,7.0,"2x8-10(F), 3 mins",10.0
+2026-04-13,Chest & Biceps🃏,50m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-04-13,Chest & Biceps🃏,50m,Single Arm Preacher Curl (Machine),F,75.0,7.0,,10.0
+2026-04-13,Chest & Biceps🃏,50m,Single Arm Preacher Curl (Machine),F,70.0,6.0,,10.0
+2026-04-13,Chest & Biceps🃏,50m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-04-13,Chest & Biceps🃏,50m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-04-13,Chest & Biceps🃏,50m,Incline Bench Press (Smith Machine),F,165.0,8.0,,10.0
+2026-04-13,Chest & Biceps🃏,50m,Incline Bench Press (Smith Machine),F,170.0,3.0,,10.0
+2026-04-13,Chest & Biceps🃏,50m,Forearm Curl (Cable),F,65.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-04-13,Chest & Biceps🃏,50m,Forearm Curl (Cable),F,70.0,6.0,,10.0
+2026-04-13,Chest & Biceps🃏,50m,Arsenal Strength Chest Fly (Machine),F,250.0,9.0,"2x8-10(F), 3 mins",10.0
+2026-04-13,Chest & Biceps🃏,50m,Arsenal Strength Chest Fly (Machine),F,220.0,6.0,,10.0
+2026-04-14,Back & Triceps✝️,43m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-04-14,Back & Triceps✝️,43m,Lat Pulldown - Wide Grip (Cable),F,170.0,6.0,,10.0
+2026-04-14,Back & Triceps✝️,43m,Lat Pulldown - Wide Grip (Cable),F,150.0,7.0,,10.0
+2026-04-14,Back & Triceps✝️,43m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-04-14,Back & Triceps✝️,43m,Single Arm Tricep Extension (Cable),F,35.0,7.0,,10.0
+2026-04-14,Back & Triceps✝️,43m,Single Arm Tricep Extension (Cable),F,30.0,8.0,,10.0
+2026-04-14,Back & Triceps✝️,43m,Kelso Shrug (Machine),F,145.0,7.0,"2x6-8(F), 3 mins",10.0
+2026-04-14,Back & Triceps✝️,43m,Kelso Shrug (Machine),F,145.0,6.0,,10.0
+2026-04-14,Back & Triceps✝️,43m,Tricep Press (Machine),F,230.0,6.0,"2x6-8(F), 3 mins",10.0
+2026-04-14,Back & Triceps✝️,43m,Tricep Press (Machine),F,220.0,6.0,,10.0
+2026-04-14,Back & Triceps✝️,43m,Arsenal Strength Reloaded Iso Multi Row,F,165.0,7.0,1x6-8(F),10.0
+2026-04-15,Legs 🐓 ,57m,Romanian Deadlift (Barbell),W,95.0,10.0,1x6-8(F),
+2026-04-15,Legs 🐓 ,57m,Romanian Deadlift (Barbell),W,135.0,6.0,,
+2026-04-15,Legs 🐓 ,57m,Romanian Deadlift (Barbell),F,235.0,7.0,,10.0
+2026-04-15,Legs 🐓 ,57m,Pendulum Squat (Machine),W,110.0,10.0,"1x6-8(F), 4 mins",
+2026-04-15,Legs 🐓 ,57m,Pendulum Squat (Machine),W,160.0,6.0,,
+2026-04-15,Legs 🐓 ,57m,Pendulum Squat (Machine),F,220.0,7.0,,10.0
+2026-04-15,Legs 🐓 ,57m,Hip Adductor (Machine),F,105.0,7.0,1x8-10(F),10.0
+2026-04-15,Legs 🐓 ,57m,Standing Calf Raise (Machine),F,280.0,10.0,"2x8-10(F), 3 mins",10.0
+2026-04-15,Legs 🐓 ,57m,Standing Calf Raise (Machine),F,285.0,5.0,,10.0
+2026-04-15,Legs 🐓 ,57m,Single-Leg Leg Extension (Machine),F,110.0,7.0,"2x6-8(F), 3 mins",10.0
+2026-04-15,Legs 🐓 ,57m,Single-Leg Leg Extension (Machine),F,100.0,6.0,,10.0
+2026-04-16,Shoulders🪨,42m,Cable Crunch,F,75.0,10.0,"3x8-10, 3 mins",10.0
+2026-04-16,Shoulders🪨,42m,Cable Crunch,F,80.0,7.0,,10.0
+2026-04-16,Shoulders🪨,42m,Arsenal Strength Shoulder Press (Machine),W,18.0,10.0,"2x6-8(F), 3 mins",
+2026-04-16,Shoulders🪨,42m,Arsenal Strength Shoulder Press (Machine),W,43.0,8.0,,
+2026-04-16,Shoulders🪨,42m,Arsenal Strength Shoulder Press (Machine),F,113.0,5.0,,10.0
+2026-04-16,Shoulders🪨,42m,Arsenal Strength Shoulder Press (Machine),F,108.0,6.0,,10.0
+2026-04-16,Shoulders🪨,42m,Arsenal Strength Lateral Raise (Machine),F,85.0,8.0,"2x8-10(F), 3 mins",10.0
+2026-04-16,Shoulders🪨,42m,Arsenal Strength Lateral Raise (Machine),F,85.0,8.0,,10.0
+2026-04-16,Shoulders🪨,42m,Rear Delt Fly (Cable),F,22.5,9.0,"2x8-10(F), 3 mins",10.0
+2026-04-18,Chest & Biceps🃏,43m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-04-18,Chest & Biceps🃏,43m,Single Arm Preacher Curl (Machine),F,75.0,8.0,,10.0
+2026-04-18,Chest & Biceps🃏,43m,Single Arm Preacher Curl (Machine),F,77.5,4.0,,10.0
+2026-04-18,Chest & Biceps🃏,43m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-04-18,Chest & Biceps🃏,43m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-04-18,Chest & Biceps🃏,43m,Incline Bench Press (Smith Machine),F,170.0,6.0,,10.0
+2026-04-18,Chest & Biceps🃏,43m,Incline Bench Press (Smith Machine),F,160.0,6.0,,10.0
+2026-04-18,Chest & Biceps🃏,43m,Forearm Curl (Cable),F,70.0,9.0,"2x6-8(F), 3 mins",10.0
+2026-04-18,Chest & Biceps🃏,43m,Forearm Curl (Cable),F,75.0,6.0,,10.0
+2026-04-18,Chest & Biceps🃏,43m,Arsenal Strength Chest Fly (Machine),F,250.0,10.0,"2x8-10(F), 3 mins",10.0
+2026-04-18,Chest & Biceps🃏,43m,Arsenal Strength Chest Fly (Machine),F,260.0,3.0,,10.0
+2026-04-19,Back & Triceps✝️,52m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-04-19,Back & Triceps✝️,52m,Lat Pulldown - Wide Grip (Cable),F,170.0,7.0,,10.0
+2026-04-19,Back & Triceps✝️,52m,Lat Pulldown - Wide Grip (Cable),F,145.0,7.0,,10.0
+2026-04-19,Back & Triceps✝️,52m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-04-19,Back & Triceps✝️,52m,Single Arm Tricep Extension (Cable),F,35.0,7.0,,10.0
+2026-04-19,Back & Triceps✝️,52m,Single Arm Tricep Extension (Cable),F,30.0,9.0,,10.0
+2026-04-19,Back & Triceps✝️,52m,Kelso Shrug (Machine),F,145.0,9.0,"2x6-8(F), 3 mins",10.0
+2026-04-19,Back & Triceps✝️,52m,Kelso Shrug (Machine),F,160.0,5.0,,10.0
+2026-04-19,Back & Triceps✝️,52m,Tricep Press (Machine),F,230.0,7.0,"2x6-8(F), 3 mins",10.0
+2026-04-19,Back & Triceps✝️,52m,Tricep Press (Machine),F,220.0,7.0,,10.0
+2026-04-19,Back & Triceps✝️,52m,Arsenal Strength Reloaded Iso Multi Row,F,165.0,8.0,1x6-8(F),10.0
+2026-04-20,Legs 🐓 ,58m,Romanian Deadlift (Barbell),W,135.0,8.0,1x6-8(F),
+2026-04-20,Legs 🐓 ,58m,Romanian Deadlift (Barbell),F,235.0,7.0,,10.0
+2026-04-20,Legs 🐓 ,58m,Pendulum Squat (Machine),W,110.0,10.0,"1x6-8(F), 4 mins",
+2026-04-20,Legs 🐓 ,58m,Pendulum Squat (Machine),W,160.0,6.0,,
+2026-04-20,Legs 🐓 ,58m,Pendulum Squat (Machine),F,220.0,6.0,,10.0
+2026-04-20,Legs 🐓 ,58m,Hip Adductor (Machine),F,105.0,9.0,1x8-10(F),10.0
+2026-04-20,Legs 🐓 ,58m,Standing Calf Raise (Machine),F,285.0,8.0,"2x8-10(F), 3 mins",10.0
+2026-04-20,Legs 🐓 ,58m,Standing Calf Raise (Machine),F,270.0,7.0,,10.0
+2026-04-20,Legs 🐓 ,58m,Single-Leg Leg Extension (Machine),F,110.0,7.0,"2x6-8(F), 3 mins",10.0
+2026-04-20,Legs 🐓 ,58m,Single-Leg Leg Extension (Machine),F,100.0,7.0,,10.0
+2026-04-21,Shoulders🪨,57m,Cable Crunch,F,80.0,10.0,"3x8-10, 3 mins",10.0
+2026-04-21,Shoulders🪨,57m,Cable Crunch,F,85.0,7.0,,10.0
+2026-04-21,Shoulders🪨,57m,Cable Crunch,F,70.0,8.0,,10.0
+2026-04-21,Shoulders🪨,57m,Arsenal Strength Shoulder Press (Machine),W,18.0,10.0,"2x6-8(F), 3 mins",
+2026-04-21,Shoulders🪨,57m,Arsenal Strength Shoulder Press (Machine),W,43.0,8.0,,
+2026-04-21,Shoulders🪨,57m,Arsenal Strength Shoulder Press (Machine),F,113.0,7.0,,10.0
+2026-04-21,Shoulders🪨,57m,Arsenal Strength Shoulder Press (Machine),F,108.0,5.0,,10.0
+2026-04-21,Shoulders🪨,57m,Arsenal Strength Lateral Raise (Machine),F,85.0,9.0,"2x8-10(F), 3 mins",10.0
+2026-04-21,Shoulders🪨,57m,Arsenal Strength Lateral Raise (Machine),F,80.0,7.0,,10.0
+2026-04-23,Chest & Biceps🃏,45m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-04-23,Chest & Biceps🃏,45m,Single Arm Preacher Curl (Machine),F,77.5,4.0,,10.0
+2026-04-23,Chest & Biceps🃏,45m,Single Arm Preacher Curl (Machine),F,70.0,6.0,,10.0
+2026-04-23,Chest & Biceps🃏,45m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-04-23,Chest & Biceps🃏,45m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-04-23,Chest & Biceps🃏,45m,Incline Bench Press (Smith Machine),F,170.0,6.0,,10.0
+2026-04-23,Chest & Biceps🃏,45m,Incline Bench Press (Smith Machine),F,160.0,6.0,,10.0
+2026-04-23,Chest & Biceps🃏,45m,Hammer Curl (Dumbbell),F,45.0,4.0,"2x6-8(F), 3 mins",10.0
+2026-04-23,Chest & Biceps🃏,45m,Hammer Curl (Dumbbell),F,35.0,8.0,,10.0
+2026-04-23,Chest & Biceps🃏,45m,Arsenal Strength Chest Fly (Machine),F,260.0,7.0,"2x8-10(F), 3 mins",10.0
+2026-04-23,Chest & Biceps🃏,45m,Arsenal Strength Chest Fly (Machine),F,220.0,7.0,,10.0
+2026-04-24,Back & Triceps✝️,47m,Kelso Shrug (Machine),F,160.0,9.0,"2x6-8(F), 3 mins",10.0
+2026-04-24,Back & Triceps✝️,47m,Kelso Shrug (Machine),F,165.0,8.0,,10.0
+2026-04-24,Back & Triceps✝️,47m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-04-24,Back & Triceps✝️,47m,Single Arm Tricep Extension (Cable),F,35.0,7.0,,10.0
+2026-04-24,Back & Triceps✝️,47m,Single Arm Tricep Extension (Cable),F,32.5,7.0,,10.0
+2026-04-24,Back & Triceps✝️,47m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-04-24,Back & Triceps✝️,47m,Lat Pulldown - Wide Grip (Cable),F,170.0,7.0,,10.0
+2026-04-24,Back & Triceps✝️,47m,Lat Pulldown - Wide Grip (Cable),F,150.0,7.0,,10.0
+2026-04-24,Back & Triceps✝️,47m,Tricep Press (Machine),F,230.0,9.0,"2x6-8(F), 3 mins",10.0
+2026-04-24,Back & Triceps✝️,47m,Tricep Press (Machine),F,235.0,5.0,,10.0
+2026-04-24,Back & Triceps✝️,47m,Arsenal Strength Reloaded Iso Multi Row,F,170.0,6.0,1x6-8(F),10.0
+2026-04-27,Chest & Biceps🃏,44m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-04-27,Chest & Biceps🃏,44m,Single Arm Preacher Curl (Machine),F,77.5,6.0,,10.0
+2026-04-27,Chest & Biceps🃏,44m,Single Arm Preacher Curl (Machine),F,70.0,6.0,,10.0
+2026-04-27,Chest & Biceps🃏,44m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-04-27,Chest & Biceps🃏,44m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-04-27,Chest & Biceps🃏,44m,Incline Bench Press (Smith Machine),F,170.0,4.0,,10.0
+2026-04-27,Chest & Biceps🃏,44m,Incline Bench Press (Smith Machine),F,160.0,8.0,,10.0
+2026-04-27,Chest & Biceps🃏,44m,Forearm Curl (Cable),F,75.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-04-27,Chest & Biceps🃏,44m,Forearm Curl (Cable),F,80.0,8.0,,10.0
+2026-04-28,Back & Triceps✝️,48m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-04-28,Back & Triceps✝️,48m,Lat Pulldown - Wide Grip (Cable),F,170.0,8.0,,10.0
+2026-04-28,Back & Triceps✝️,48m,Lat Pulldown - Wide Grip (Cable),F,175.0,5.0,,10.0
+2026-04-28,Back & Triceps✝️,48m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-04-28,Back & Triceps✝️,48m,Single Arm Tricep Extension (Cable),F,35.0,9.0,,10.0
+2026-04-28,Back & Triceps✝️,48m,Single Arm Tricep Extension (Cable),F,37.5,4.0,,10.0
+2026-04-28,Back & Triceps✝️,48m,Kelso Shrug (Machine),F,175.0,9.0,"2x6-8(F), 3 mins",10.0
+2026-04-28,Back & Triceps✝️,48m,Kelso Shrug (Machine),F,180.0,7.0,,10.0
+2026-04-28,Back & Triceps✝️,48m,Tricep Press (Machine),F,235.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-04-28,Back & Triceps✝️,48m,Tricep Press (Machine),F,240.0,3.0,,10.0
+2026-04-28,Back & Triceps✝️,48m,Arsenal Strength Reloaded Iso Multi Row,F,170.0,8.0,1x6-8(F),10.0
+2026-04-30,Legs 🐓 ,43m,Romanian Deadlift (Barbell),W,135.0,8.0,1x6-8(F),
+2026-04-30,Legs 🐓 ,43m,Romanian Deadlift (Barbell),F,235.0,8.0,,10.0
+2026-04-30,Legs 🐓 ,43m,Hip Adductor (Machine),F,105.0,10.0,1x8-10(F),10.0
+2026-04-30,Legs 🐓 ,43m,Pendulum Squat (Machine),W,110.0,10.0,"1x6-8(F), 4 mins",
+2026-04-30,Legs 🐓 ,43m,Pendulum Squat (Machine),F,220.0,8.0,,10.0
+2026-04-30,Legs 🐓 ,43m,Standing Calf Raise (Machine),F,285.0,8.0,"2x8-10(F), 3 mins",10.0
+2026-04-30,Legs 🐓 ,43m,Single-Leg Leg Extension (Machine),F,110.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-04-30,Legs 🐓 ,43m,Single-Leg Leg Extension (Machine),F,115.0,2.0,,10.0
+2026-05-01,Shoulders🪨,44m,Arsenal Strength Shoulder Press (Machine),W,18.0,10.0,"2x6-8(F), 3 mins",
+2026-05-01,Shoulders🪨,44m,Arsenal Strength Shoulder Press (Machine),W,43.0,8.0,,
+2026-05-01,Shoulders🪨,44m,Arsenal Strength Shoulder Press (Machine),F,113.0,7.0,,10.0
+2026-05-01,Shoulders🪨,44m,Arsenal Strength Shoulder Press (Machine),F,108.0,6.0,,10.0
+2026-05-01,Shoulders🪨,44m,Cable Crunch,F,85.0,8.0,"3x8-10, 3 mins",10.0
+2026-05-01,Shoulders🪨,44m,Cable Crunch,F,80.0,8.0,,10.0
+2026-05-01,Shoulders🪨,44m,Cable Crunch,F,80.0,6.0,,10.0
+2026-05-01,Shoulders🪨,44m,Arsenal Strength Lateral Raise (Machine),F,85.0,9.0,"2x8-10(F), 3 mins",10.0
+2026-05-01,Shoulders🪨,44m,Arsenal Strength Lateral Raise (Machine),F,80.0,7.0,,10.0
+2026-05-01,Shoulders🪨,44m,Rear Delt Fly (Cable),F,22.5,10.0,1x8-10(F),10.0
+2026-05-03,Chest & Biceps🃏,1h 30m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-05-03,Chest & Biceps🃏,1h 30m,Single Arm Preacher Curl (Machine),F,77.5,6.0,,10.0
+2026-05-03,Chest & Biceps🃏,1h 30m,Single Arm Preacher Curl (Machine),F,70.0,7.0,,10.0
+2026-05-03,Chest & Biceps🃏,1h 30m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-05-03,Chest & Biceps🃏,1h 30m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-05-03,Chest & Biceps🃏,1h 30m,Incline Bench Press (Smith Machine),F,170.0,5.0,,10.0
+2026-05-03,Chest & Biceps🃏,1h 30m,Incline Bench Press (Smith Machine),F,160.0,6.0,,10.0
+2026-05-03,Chest & Biceps🃏,1h 30m,Forearm Curl (Cable),F,85.0,7.0,"2x6-8(F), 3 mins",10.0
+2026-05-03,Chest & Biceps🃏,1h 30m,Forearm Curl (Cable),F,80.0,9.0,,10.0
+2026-05-03,Chest & Biceps🃏,1h 30m,Arsenal Strength Chest Fly (Machine),F,260.0,8.0,"2x8-10(F), 3 mins",10.0
+2026-05-03,Chest & Biceps🃏,1h 30m,Arsenal Strength Chest Fly (Machine),F,220.0,10.0,,10.0
+2026-05-04,Back & Triceps✝️,54m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-05-04,Back & Triceps✝️,54m,Lat Pulldown - Wide Grip (Cable),F,175.0,7.0,,10.0
+2026-05-04,Back & Triceps✝️,54m,Lat Pulldown - Wide Grip (Cable),F,160.0,7.0,,10.0
+2026-05-04,Back & Triceps✝️,54m,Kelso Shrug (Machine),F,180.0,10.0,"2x6-8(F), 3 mins",10.0
+2026-05-04,Back & Triceps✝️,54m,Kelso Shrug (Machine),F,185.0,7.0,,10.0
+2026-05-04,Back & Triceps✝️,54m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-05-04,Back & Triceps✝️,54m,Single Arm Tricep Extension (Cable),F,37.5,6.0,,10.0
+2026-05-04,Back & Triceps✝️,54m,Single Arm Tricep Extension (Cable),F,32.5,7.0,,10.0
+2026-05-04,Back & Triceps✝️,54m,Tricep Press (Machine),F,240.0,6.0,"2x6-8(F), 3 mins",10.0
+2026-05-04,Back & Triceps✝️,54m,Tricep Press (Machine),F,220.0,7.0,,10.0
+2026-05-04,Back & Triceps✝️,54m,Arsenal Strength Reloaded Iso Multi Row,F,175.0,7.0,1x6-8(F),10.0
+2026-05-05,Legs 🐓 ,47m,Romanian Deadlift (Barbell),W,135.0,8.0,1x6-8(F),
+2026-05-05,Legs 🐓 ,47m,Romanian Deadlift (Barbell),F,245.0,6.0,,10.0
+2026-05-05,Legs 🐓 ,47m,Pendulum Squat (Machine),W,110.0,10.0,"1x6-8(F), 4 mins",
+2026-05-05,Legs 🐓 ,47m,Pendulum Squat (Machine),F,225.0,6.0,,10.0
+2026-05-05,Legs 🐓 ,47m,Hip Adductor (Machine),F,110.0,7.0,1x8-10(F),10.0
+2026-05-05,Legs 🐓 ,47m,Standing Calf Raise (Machine),F,285.0,9.0,"2x8-10(F), 3 mins",10.0
+2026-05-05,Legs 🐓 ,47m,Standing Calf Raise (Machine),F,280.0,7.0,,10.0
+2026-05-05,Legs 🐓 ,47m,Single-Leg Leg Extension (Machine),F,115.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-05-05,Legs 🐓 ,47m,Single-Leg Leg Extension (Machine),F,120.0,3.0,,10.0
+2026-05-06,Shoulders🪨,38m,Cable Crunch,F,85.0,8.0,"3x8-10, 3 mins",10.0
+2026-05-06,Shoulders🪨,38m,Cable Crunch,F,80.0,8.0,,10.0
+2026-05-06,Shoulders🪨,38m,Cable Crunch,F,75.0,8.0,,10.0
+2026-05-06,Shoulders🪨,38m,Arsenal Strength Shoulder Press (Machine),W,18.0,10.0,"2x6-8(F), 3 mins",
+2026-05-06,Shoulders🪨,38m,Arsenal Strength Shoulder Press (Machine),W,43.0,8.0,,
+2026-05-06,Shoulders🪨,38m,Arsenal Strength Shoulder Press (Machine),F,113.0,8.0,,10.0
+2026-05-06,Shoulders🪨,38m,Arsenal Strength Shoulder Press (Machine),F,118.0,3.0,,10.0
+2026-05-06,Shoulders🪨,38m,Arsenal Strength Lateral Raise (Machine),F,85.0,9.0,"2x8-10(F), 3 mins",10.0
+2026-05-06,Shoulders🪨,38m,Arsenal Strength Lateral Raise (Machine),F,70.0,10.0,,10.0
+2026-05-06,Shoulders🪨,38m,Rear Delt Fly (Cable),F,25.0,7.0,1x8-10(F),10.0
+2026-05-11,Chest & Biceps🃏,55m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-05-11,Chest & Biceps🃏,55m,Single Arm Preacher Curl (Machine),F,77.5,6.0,,10.0
+2026-05-11,Chest & Biceps🃏,55m,Single Arm Preacher Curl (Machine),F,70.0,6.0,,10.0
+2026-05-11,Chest & Biceps🃏,55m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-05-11,Chest & Biceps🃏,55m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-05-11,Chest & Biceps🃏,55m,Incline Bench Press (Smith Machine),F,170.0,6.0,,10.0
+2026-05-11,Chest & Biceps🃏,55m,Incline Bench Press (Smith Machine),F,160.0,5.0,,10.0
+2026-05-11,Chest & Biceps🃏,55m,Forearm Curl (Cable),F,85.0,11.0,"2x6-8(F), 3 mins",10.0
+2026-05-11,Chest & Biceps🃏,55m,Arsenal Strength Chest Fly (Machine),F,260.0,8.0,"2x8-10(F), 3 mins",10.0
+2026-05-11,Chest & Biceps🃏,55m,Arsenal Strength Chest Fly (Machine),F,260.0,4.0,,10.0
+2026-05-12,Back & Triceps✝️,48m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-05-12,Back & Triceps✝️,48m,Lat Pulldown - Wide Grip (Cable),F,175.0,8.0,,10.0
+2026-05-12,Back & Triceps✝️,48m,Lat Pulldown - Wide Grip (Cable),F,180.0,5.0,,10.0
+2026-05-12,Back & Triceps✝️,48m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-05-12,Back & Triceps✝️,48m,Single Arm Tricep Extension (Cable),F,37.5,5.0,,10.0
+2026-05-12,Back & Triceps✝️,48m,Single Arm Tricep Extension (Cable),F,32.5,8.0,,10.0
+2026-05-12,Back & Triceps✝️,48m,Kelso Shrug (Machine),F,185.0,9.0,"2x6-8(F), 3 mins",10.0
+2026-05-12,Back & Triceps✝️,48m,Kelso Shrug (Machine),F,190.0,6.0,,10.0
+2026-05-12,Back & Triceps✝️,48m,Tricep Press (Machine),F,240.0,7.0,"2x6-8(F), 3 mins",10.0
+2026-05-12,Back & Triceps✝️,48m,Tricep Press (Machine),F,220.0,8.0,,10.0
+2026-05-12,Back & Triceps✝️,48m,Arsenal Strength Reloaded Iso Multi Row,F,175.0,8.0,1x6-8(F),10.0
+2026-05-13,Legs 🐓 ,45m,Romanian Deadlift (Barbell),W,135.0,8.0,1x6-8(F),
+2026-05-13,Legs 🐓 ,45m,Romanian Deadlift (Barbell),F,245.0,8.0,,10.0
+2026-05-13,Legs 🐓 ,45m,Pendulum Squat (Machine),W,110.0,10.0,"1x6-8(F), 4 mins",
+2026-05-13,Legs 🐓 ,45m,Pendulum Squat (Machine),W,160.0,6.0,,
+2026-05-13,Legs 🐓 ,45m,Pendulum Squat (Machine),F,225.0,8.0,,10.0
+2026-05-13,Legs 🐓 ,45m,Hip Adductor (Machine),F,110.0,7.0,1x8-10(F),10.0
+2026-05-13,Legs 🐓 ,45m,Standing Calf Raise (Machine),F,285.0,10.0,"2x8-10(F), 3 mins",10.0
+2026-05-13,Legs 🐓 ,45m,Standing Calf Raise (Machine),F,290.0,7.0,,10.0
+2026-05-13,Legs 🐓 ,45m,Single-Leg Leg Extension (Machine),F,120.0,6.0,"2x6-8(F), 3 mins",10.0
+2026-05-13,Legs 🐓 ,45m,Single-Leg Leg Extension (Machine),F,100.0,8.0,,10.0
+2026-05-14,Shoulders🪨,43m,Cable Crunch,F,85.0,10.0,"3x8-10, 3 mins",10.0
+2026-05-14,Shoulders🪨,43m,Cable Crunch,F,90.0,7.0,,10.0
+2026-05-14,Shoulders🪨,43m,Cable Crunch,F,80.0,11.0,,10.0
+2026-05-14,Shoulders🪨,43m,Arsenal Strength Shoulder Press (Machine),W,18.0,10.0,"2x6-8(F), 3 mins",
+2026-05-14,Shoulders🪨,43m,Arsenal Strength Shoulder Press (Machine),W,43.0,8.0,,
+2026-05-14,Shoulders🪨,43m,Arsenal Strength Shoulder Press (Machine),F,113.0,8.0,,10.0
+2026-05-14,Shoulders🪨,43m,Arsenal Strength Shoulder Press (Machine),F,118.0,8.0,,10.0
+2026-05-14,Shoulders🪨,43m,Arsenal Strength Lateral Raise (Machine),F,85.0,10.0,"2x8-10(F), 3 mins",10.0
+2026-05-14,Shoulders🪨,43m,Arsenal Strength Lateral Raise (Machine),F,90.0,6.0,,10.0
+2026-05-14,Shoulders🪨,43m,Rear Delt Fly (Cable),F,25.0,9.0,1x8-10(F),10.0
+2026-05-16,Chest & Biceps🃏,51m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-05-16,Chest & Biceps🃏,51m,Single Arm Preacher Curl (Machine),F,77.5,6.0,,10.0
+2026-05-16,Chest & Biceps🃏,51m,Single Arm Preacher Curl (Machine),F,70.0,8.0,,10.0
+2026-05-16,Chest & Biceps🃏,51m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-05-16,Chest & Biceps🃏,51m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-05-16,Chest & Biceps🃏,51m,Incline Bench Press (Smith Machine),F,170.0,6.0,,10.0
+2026-05-16,Chest & Biceps🃏,51m,Incline Bench Press (Smith Machine),F,160.0,6.0,,10.0
+2026-05-16,Chest & Biceps🃏,51m,Forearm Curl (Cable),F,90.0,7.0,"2x6-8(F), 3 mins",10.0
+2026-05-16,Chest & Biceps🃏,51m,Forearm Curl (Cable),F,80.0,9.0,,10.0
+2026-05-16,Chest & Biceps🃏,51m,Arsenal Strength Chest Fly (Machine),F,260.0,8.0,"2x8-10(F), 3 mins",10.0
+2026-05-16,Chest & Biceps🃏,51m,Arsenal Strength Chest Fly (Machine),F,250.0,5.0,,10.0
+2026-05-17,Back & Triceps✝️,49m,Lat Pulldown - Wide Grip (Cable),W,100.0,8.0,"2x6-8(F), 4 mins",
+2026-05-17,Back & Triceps✝️,49m,Lat Pulldown - Wide Grip (Cable),F,180.0,6.0,,10.0
+2026-05-17,Back & Triceps✝️,49m,Lat Pulldown - Wide Grip (Cable),F,160.0,8.0,,10.0
+2026-05-17,Back & Triceps✝️,49m,Single Arm Tricep Extension (Cable),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-05-17,Back & Triceps✝️,49m,Single Arm Tricep Extension (Cable),F,37.5,6.0,,10.0
+2026-05-17,Back & Triceps✝️,49m,Single Arm Tricep Extension (Cable),F,35.0,4.0,,10.0
+2026-05-17,Back & Triceps✝️,49m,Kelso Shrug (Machine),F,190.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-05-17,Back & Triceps✝️,49m,Kelso Shrug (Machine),F,205.0,6.0,,10.0
+2026-05-17,Back & Triceps✝️,49m,Tricep Press (Machine),F,240.0,7.0,"2x6-8(F), 3 mins",10.0
+2026-05-21,Chest & Biceps🃏,50m,Single Arm Preacher Curl (Machine),W,10.0,10.0,"2x6-8(F), 3 mins",
+2026-05-21,Chest & Biceps🃏,50m,Single Arm Preacher Curl (Machine),F,77.5,4.0,,10.0
+2026-05-21,Chest & Biceps🃏,50m,Single Arm Preacher Curl (Machine),F,75.0,6.0,,10.0
+2026-05-21,Chest & Biceps🃏,50m,Incline Bench Press (Smith Machine),W,20.0,10.0,"2x6-8(F), 4 mins",
+2026-05-21,Chest & Biceps🃏,50m,Incline Bench Press (Smith Machine),W,110.0,5.0,,
+2026-05-21,Chest & Biceps🃏,50m,Incline Bench Press (Smith Machine),F,170.0,5.0,,10.0
+2026-05-21,Chest & Biceps🃏,50m,Incline Bench Press (Smith Machine),F,160.0,6.0,,10.0
+2026-05-21,Chest & Biceps🃏,50m,Forearm Curl (Cable),F,90.0,8.0,"2x6-8(F), 3 mins",10.0
+2026-05-21,Chest & Biceps🃏,50m,Forearm Curl (Cable),F,80.0,9.0,,10.0
+2026-05-21,Chest & Biceps🃏,50m,Arsenal Strength Chest Fly (Machine),F,260.0,9.0,"2x8-10(F), 3 mins",10.0
+2026-05-21,Chest & Biceps🃏,50m,Arsenal Strength Chest Fly (Machine),F,220.0,8.0,,10.0
