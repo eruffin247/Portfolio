@@ -1,0 +1,10 @@
+# Files I want GitHub to ignore when I push updates.
+NOTES.md
+.env
+*.pyc
+.DS_Store
+
+# Directories I want GitHub to ignore.
+.venv/
+__pycache__/
+/prototype/__pycache__/
