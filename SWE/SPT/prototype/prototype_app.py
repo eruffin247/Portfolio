@@ -32,7 +32,7 @@ if st.button("Generate Password"):
     if num_of_passwords == 1:
         st.write("Here is your password! ⬇️")
     else:
-        st.write("Here are your passwords! ⬇️")
+        st.write(f"Here are your {num_of_passwords} passwords! ⬇️")
 
     for i in range(num_of_passwords):
         password = gen_password(pass_length)
