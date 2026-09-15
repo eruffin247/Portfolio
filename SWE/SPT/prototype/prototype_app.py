@@ -16,7 +16,7 @@ This tool to for generating cryptographically secure random passwords.
 """)
 
 # ===Generate Password===
-st.write("## Generate Your Password")
+st.write("## Generate Your Password 🤐")
 
 num_of_passwords = st.radio(
     "How many passwords would you like to generate?",
@@ -29,6 +29,11 @@ pass_length = st.radio(
 )
 
 if st.button("Generate Password"):
+    if num_of_passwords == 1:
+        st.write("Here is your password! ⬇️")
+    else:
+        st.write("Here are your passwords! ⬇️")
+
     for i in range(num_of_passwords):
         password = gen_password(pass_length)
         st.write(f"Password {i + 1}: {password}")
