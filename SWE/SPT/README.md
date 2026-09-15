@@ -65,6 +65,7 @@ Deployment
 - SQLite database
 - Automated testing
 - Password entropy-level display (strength level display)
+- Button to export passwords to .txt file (helpful for quickly copying multiple passwords)
 
 ## Tech Stack ⚙️
 
