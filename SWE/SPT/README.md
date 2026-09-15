@@ -64,6 +64,7 @@ Deployment
 - REST API using FastAPI
 - SQLite database
 - Automated testing
+- Password entropy-level display (strength level display)
 
 ## Tech Stack ⚙️
 
@@ -82,6 +83,7 @@ Deployment
 - Python venv
 
 ### Prototype
+- Python
 - Streamlit
 
 ## Architecture 🏛️
