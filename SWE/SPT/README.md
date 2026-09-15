@@ -50,6 +50,7 @@ Deployment
 ### Implemented
 - Cryptographically secure password generation using Python's `secrets` module
 - User-selectable password length
+- User-selectable number of simultaneous password generations
 - Basic prototype interface using **Streamlit**
 
 ### Planned
