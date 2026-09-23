@@ -23,13 +23,13 @@ Increasing the available character set and password length increases the total p
 Application security will also include secure authentication, password hashing, encryption, input validation, and protection of sensitive configuration as the project develops.
 
 ## Current Status ⏳
-SPT is currently in the prototype/development stage.
+SPT is currently in the **frontend development** stage.
 
 The initial password-generation prototype has been implemented using **Python and Streamlit.** The next development phase is to rebuild the application using **HTML/CSS/JS** for the frontend and a **FastAPI** backend.
 
 ### Project Stages
 ```
-Build Prototype
+Build Prototype ✅
     ↓
 Build Frontend
     ↓
