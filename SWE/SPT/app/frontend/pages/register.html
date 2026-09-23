@@ -7,19 +7,22 @@
     <body>
         <form action="">
             <label for="First Name">First Name</label>
-            <input type="text" name="" id="First Name">
+            <input type="text" name="" id="First Name" placeholder="John" required>
 
             <label for="Last Name">Last Name</label>
-            <input type="text" name="Last Name" id="Last Name">
+            <input type="text" name="Last Name" id="Last Name" placeholder="Doe" required>
 
             <label for="Email">Email</label>
-            <input type="email" name="" id="Email">
+            <input type="email" name="" id="Email" placeholder="johndoe@example.com" required>
+
+            <label for="Username">Username</label>
+            <input type="text" name="Username" id="Username" placeholder="johndoe123" minlength="7" maxlength="15" required>
 
             <label for="Password">Password</label>
-            <input type="password" name="" id="">
+            <input type="password" name="Password" id="Password" minlength="12" required>
 
             <label for="Password">Re-enter Password</label>
-            <input type="password" name="" id="Password">
+            <input type="password" name="Password" id="Password" minlength="12" required>
 
             <label for="Phone Number">Phone Number</label>
             <input type="tel" name="Phone Number" id="Phone Number">
