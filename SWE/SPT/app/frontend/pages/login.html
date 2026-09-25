@@ -5,22 +5,39 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <title>SPT Login Page</title>
+        <link rel="icon" href="../assets/images/spt_favicon.png">
+        <link rel="stylesheet" href="../styles/base.css">
     </head>
 
     <body>
-        <h1>Login</h1>
-        <form action="login/" method="post">
-            <label for="username">Username</label>
-            <input type="text" name="username" id="username" placeholder="johndoe123" minlength="7" maxlength="15" required>
+        <header>
+            <h1>
+                Login
+            </h1>
+            <hr>
+        </header>
 
-            <label for="password">Password</label>
-            <input type="password" name="password" id="password" required>
+        <main>
+            <form action="login/" method="post">
+                <label for="username">Username</label>
+                <input type="text" name="username" id="username" placeholder="johndoe123" required>
 
-            <input type="submit">
-        </form>
+                <label for="password">Password</label>
+                <input type="password" name="password" id="password" required>
+
+                <input type="submit">
+            </form>
         
-        <a href="reset_password.html">Forgot Password?</a>
+            <a href="reset_password.html">Forgot Password?</a>
 
-        <a href="register.html">Create Account</a>
+            <a href="register.html">Create Account</a>
+        </main>
+
+        <footer>
+            <hr>
+            <p>created by E. Ruffin</p>
+            &copy; copyright reserved
+        </footer>
+
     </body>
 </html>
