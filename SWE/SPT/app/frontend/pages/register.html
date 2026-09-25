@@ -5,9 +5,17 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <title>Registration Page</title>
+        <link rel="icon" href="../assets/images/spt_favicon.png">
+        <link rel="stylesheet" href="../styles/base.css">
     </head>
 
     <body>
+        <header>
+            <h1>
+                Create Account
+            </h1>
+            <hr>
+        </header>
         <main>
             <form action="create_account/" method="post">
                 <label for="first-name">First Name</label>
@@ -70,10 +78,18 @@
                     type="tel"
                     name="phone_number"
                     id="phone-number"
+                    placeholder="123-456-7890"
+                    pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
                 >
 
                 <button type="submit">Create Account</button>
             </form>
         </main>
+
+        <footer>
+            <hr>
+            <p>created by E. Ruffin</p>
+            &copy; copyright reserved
+        </footer>
     </body>
 </html>
