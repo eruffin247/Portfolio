@@ -1,3 +1,9 @@
 img{
     float: right;
 }
+
+video{
+    width: 70%;
+    height: auto;
+    object-fit: contain;
+}
