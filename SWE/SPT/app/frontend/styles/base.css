@@ -2,6 +2,8 @@ body{
     background-image: url(../assets/images/spt_background.png);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+
     color: aquamarine;
     font-family: 'Times New Roman';
 }
