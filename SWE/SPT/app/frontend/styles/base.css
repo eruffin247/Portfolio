@@ -1,10 +1,42 @@
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 0rem;
+    background-color: aquamarine;
+    width: fit-content;
+}
+
+ul a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+ul a:hover{
+    background-color: black;
+    color: aquamarine;
+}
+
 body{
     background-image: url(../assets/images/spt_background.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
 
     color: aquamarine;
     font-family: 'Times New Roman', Times, serif;
     font-size: 1em;
+}
+
+img{
+    float: right;
+}
+
+footer{
+    margin-top: auto;
 }
