@@ -1,9 +1,13 @@
-img{
-    float: right;
-}
-
 video{
     width: 70%;
     height: auto;
     object-fit: contain;
+}
+
+#spt-description{
+    width: 1000px;
+}
+
+#steps{
+    width: 1000px;
 }
