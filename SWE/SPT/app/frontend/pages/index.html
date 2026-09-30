@@ -12,30 +12,37 @@
 
     <body>
         <header>
-            <h1>Welcome to SPT
-            <img
-                src="../assets/images/true_spt_logo_transparent.png"
-                alt="SPT Logo"
-                height="100"
-            >
+            <h1>
+                Welcome to SPT
+                <img
+                    src="../assets/images/true_spt_logo_transparent.png"
+                    alt="SPT Logo"
+                    height="100"
+                >
             </h1>
 
-            <a href="login.html">Login</a>
-            <a href="password_gen.html">Use Password Generator</a>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="login.html">Login</a></li>
+                    <li><a href="password_gen.html">Use Password Generator</a></li>
+                    <li><a href="password_manager.html">Password Manager</a></li>
+                </ul>
+            </nav>
             <hr>
 
         </header>
 
         <main>
             <h2>What is SPT?</h2>
-            <p>
+            <p id="spt-description">
                 SPT, or <em>Secure Password Tool,</em> is a web-based password generation and
                 management tool. The application will allow users to create an account,
                 generate cryptographically secure random passwords, and save & manage passwords.
             </p>
 
             <h2>How to use SPT?</h2>
-            <ol>
+            <ol id="steps">
                 <li>
                     Click on the "Use Password Generator" button. You <em>do not</em> need to
                     create an account to begin using SPT. However, making an account will allow
