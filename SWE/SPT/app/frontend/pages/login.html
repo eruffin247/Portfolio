@@ -7,6 +7,7 @@
         <title>SPT Login Page</title>
         <link rel="icon" href="../assets/images/spt_favicon.png">
         <link rel="stylesheet" href="../styles/base.css">
+        <link rel="stylesheet" href="../styles/login.css">
     </head>
 
     <body>
@@ -33,19 +34,39 @@
         </header>
 
         <main>
-            <form action="login/" method="post">
-                <label for="username">Username</label>
-                <input type="text" name="username" id="username" placeholder="johndoe123" required>
+            <div class="login-form">
+                <form action="login/" method="post">
+                    <div class="credentials">
+                        <label for="username">Username</label>
+                        <input
+                            type="text"
+                            name="username"
+                            id="username"
+                            placeholder="johndoe123"
+                            required
+                        >
+                    </div>
 
-                <label for="password">Password</label>
-                <input type="password" name="password" id="password" required>
+                    <div class="credentials">
+                        <label for="password">Password</label>
+                        <input
+                            type="password"
+                            name="password"
+                            id="password"
+                            required
+                            >
+                    </div>
 
-                <input type="submit">
-            </form>
-        
+                    <input type="checkbox" name="remember-me" id="remember_me_checkbox">
+                    <label for="remember-me">Remember me</label>
+
+                    <input type="submit" value="Sign in">
+                </form>
             <a href="reset_password.html">Forgot Password?</a>
-
             <a href="register.html">Create Account</a>
+
+            </div>
+        
         </main>
 
         <footer>
