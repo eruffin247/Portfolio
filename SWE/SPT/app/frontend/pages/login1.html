@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPT Login Page</title>
+    <link rel="icon" href="../assets/images/spt_favicon.png">
+    <link rel="stylesheet" href="../styles/base.css">
+    <link rel="stylesheet" href="../styles/login.css">
+</head>
+
+<body>
+    <header>
+        <h1>
+            Login
+            <img
+            src="../assets/images/true_spt_logo_transparent.png"
+            alt="Transparent SPT Logo"
+            height="100">
+        </h1>
+
+        <nav class="navbar">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="login.html">Login</a></li>
+                <li><a href="password_gen.html">Use Password Generator</a></li>
+                <li><a href="password_manager.html">Password Manager</a></li>
+            </ul>
+        </nav>
+        <hr>
+    </header>
+
+    <main class="login-page">
+        <div class="login-box">
+            <div class="login-form">
+                <h2 class="login-header">Welcome Back!</h2>
+                <p class="login-description">Please sign in to your SPT account.</p>
+
+                <form action="login/" method="post">
+                    <div class="credentials">
+                        <label for="email">Username</label>
+                        <input
+                            type="email"
+                            name="email"
+                            placeholder="johndoe123@example.com"
+                            id="email"
+                            required
+                        >
+                    </div>
+
+                    <div class="credentials">
+                        <label for="password">Password</label>
+                        <input
+                        type="password"
+                        name="password"
+                        id="password"
+                        required
+                        >
+                    </div>
+                    <input type="checkbox" name="remember-me" id="remember_me_checkbox">
+                    <label for="remember-me">Remember Me</label>
+
+                    <button type="submit" class="sign-in">Sign in</button>
+                </form>
+
+                <div class="forgot-password">
+                    <a href="reset_password.html">Forgot Password?</a>
+                </div>
+
+                <div class="register-link">
+                    <p>Don't have an account?</p>
+                    <button type="button">
+                        <a href="register.html">Create Account</a>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <hr>
+        <p>created by E. Ruffin</p>
+        &copy; copyright reserved
+    </footer>
+</body>
+</html>
