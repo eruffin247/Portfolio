@@ -1,0 +1,50 @@
+.login-page{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.login-box{
+    background-color: aquamarine;
+    width: fit-content;
+    height: 400px;
+    max-height: 100%;
+    align-items: center;
+    padding: 40px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+}
+
+.login-form{
+    color: black;
+    opacity: 100%;
+}
+
+.login-header{
+    text-align: center;
+}
+
+.login-description{
+    text-align: center;
+}
+
+.credentials{
+    text-align: center;
+    margin: 5px;
+}
+
+.remember-me{
+    align-self: left;
+}
+
+.sign-in{
+    margin: 5px;
+    align-self: right;
+}
+
+.register-link{
+    margin: 2px;
+    text-align: center;
+}
