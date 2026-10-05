@@ -1,4 +1,42 @@
 body{
-    background-color: #C9C9C9;
-    font-family:'Times New Roman', Times, serif;
+    background-color: #E3E3E3;
+    font-family: monospace, 'Times New Roman', Times, serif;
+}
+
+header{
+    font-family: monospace;
+}
+
+.grad-pic{
+    float: none;
+}
+
+.links{
+    display: flex;
+    gap: 20px;
+}
+
+main{
+    width: auto;
+}
+
+.aboutme{
+    display: grid;
+    grid-template-columns: 1fr -1fr;
+    gap: 20px;
+}
+
+.education{
+    grid-column: 1 / -1;
+}
+
+.activities{
+    width: auto;
+    margin: 0;
+    grid-column: 1;
+}
+
+.career-goals{
+    width: auto;
+    grid-column: -1;
 }
