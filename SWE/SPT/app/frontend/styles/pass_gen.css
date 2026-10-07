@@ -1,0 +1,15 @@
+.generation-block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0px;
+
+    height: 500px;
+    width: 600px;
+    max-width: 100%;
+    background-color: rgba(143, 255, 214, 1);
+    color: black;
+    border: 1px solid lightgray;
+    border-radius: 10%;
+}
