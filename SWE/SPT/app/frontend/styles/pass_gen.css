@@ -54,4 +54,13 @@
     height: 40px;
     width: fit-content;
     font-size: 15px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.generation-block .generate-password button:hover{
+    background-color: black;
+    color: rgba(143, 255, 214);
+    border: solid 1px lightgray;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 9%;
 }
