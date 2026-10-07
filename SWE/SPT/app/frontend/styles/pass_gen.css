@@ -37,3 +37,7 @@
 .generation-block .block-header{
     text-align: center;
 }
+
+.generation-block .password-config{
+    margin: 10px;
+}
