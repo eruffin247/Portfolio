@@ -39,5 +39,19 @@
 }
 
 .generation-block .password-config{
+    display: flex;
+    justify-content: left;
     margin: 10px;
+}
+
+.generation-block .generate-password{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.generation-block .generate-password button{
+    height: 40px;
+    width: fit-content;
+    font-size: 15px;
 }
