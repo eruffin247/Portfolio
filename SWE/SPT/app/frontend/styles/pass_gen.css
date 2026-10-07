@@ -6,13 +6,14 @@
 .generation-description{
     display: flex;
     flex-direction: column;
+    margin: 10px;
 }
 
 .generation-block{
     display: flex;
     align-items: center;
     justify-content: left;
-    margin: 20px;
+    margin: 10px;
 
     height: 500px;
     width: 800px;
