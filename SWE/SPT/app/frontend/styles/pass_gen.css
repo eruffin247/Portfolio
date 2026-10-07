@@ -1,17 +1,17 @@
 .generation-page{
     display: flex;
-    justify-content: center;
+    justify-content: right;
+    min-height: 100vh;
 }
 
 .generation-block{
     display: flex;
     align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-    margin: 0px;
+    justify-content: left;
+    margin: 20px;
 
     height: 500px;
-    width: 600px;
+    width: 800px;
     max-width: 100%;
     background-color: rgba(143, 255, 214, 1);
     color: black;
