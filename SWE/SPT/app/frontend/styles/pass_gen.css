@@ -1,7 +1,11 @@
 .generation-page{
     display: flex;
-    justify-content: right;
     min-height: 100vh;
+}
+
+.generation-description{
+    display: flex;
+    flex-direction: column;
 }
 
 .generation-block{
