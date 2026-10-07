@@ -1,3 +1,8 @@
+.generation-page{
+    display: flex;
+    justify-content: center;
+}
+
 .generation-block{
     display: flex;
     align-items: center;
