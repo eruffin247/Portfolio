@@ -65,3 +65,7 @@
     font-family: 'Times New Roman', Times, serif;
     border-radius: 9%;
 }
+
+.generation-block .password-display h3{
+    text-align: center;
+}
