@@ -4,10 +4,7 @@ video{
     object-fit: contain;
 }
 
-#spt-description{
-    width: 1000px;
-}
-
-#steps{
-    width: 1000px;
+.spt-overview{
+    width: auto;
+    max-width: 900px;
 }
